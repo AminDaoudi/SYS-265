@@ -1,2 +1,1 @@
-docker01 configuration
-hostname
+mgmt01-amin
